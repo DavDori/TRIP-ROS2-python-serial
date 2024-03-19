@@ -1,0 +1,3 @@
+wheel_radius_m: 0.03
+wheel_distance_m: 0.16
+max_motor_rpm: 20
