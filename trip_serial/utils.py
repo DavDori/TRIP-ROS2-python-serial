@@ -17,3 +17,6 @@ def rpm2radps(value_rpm):
 
 def radps2rpm(value_radps):
     return value_radps * 30.0 / np.pi
+
+def degps2rpm(value_degps):
+    return value_degps / 6.0
